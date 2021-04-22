@@ -1,0 +1,55 @@
+Info: CustomCategory:Sistemas gestao web: 18 mini seconds publishing element
+Info: CustomCategory:Tarefas: 12 mini seconds publishing element
+Info: Discipline:Análise do sistema a ser desenvolvido: 14 mini seconds publishing element
+Info: Task:Criar cdus das funcionalidades priorizadas: 22 mini seconds publishing element
+Info: Task:Entendimento do negócio: 18 mini seconds publishing element
+Info: Task:Levantamento de requisitos: 15 mini seconds publishing element
+Info: Task:Priorização de funcionalidades: 15 mini seconds publishing element
+Info: Discipline:Apresentação dos resultados: 11 mini seconds publishing element
+Info: Task:Entrega da documentação de desenvolvimento: 18 mini seconds publishing element
+Info: Task:Reunião de demonstração: 15 mini seconds publishing element
+Info: Task:Validação do cliente: 17 mini seconds publishing element
+Info: Discipline:Desenvolvimento: 12 mini seconds publishing element
+Info: Task:Adequar interfaces ao negócio: 14 mini seconds publishing element
+Info: Task:Analisar entidades identificadas do sistema: 14 mini seconds publishing element
+Info: Task:Criar documentação de desenvolvimento: 15 mini seconds publishing element
+Info: Task:Implementar entidades identificadas do sistema: 14 mini seconds publishing element
+Info: Task:Implementar interfaces readequadas: 21 mini seconds publishing element
+Info: Task:Reunião com o cliente: 15 mini seconds publishing element
+Info: Discipline:Preparação para o desenvolvimento: 13 mini seconds publishing element
+Info: Task:Estudo da documentação do negócio: 18 mini seconds publishing element
+Info: Task:Identificar entidades do sistema: 14 mini seconds publishing element
+Info: Task:Planejar interfaces do sistema: 14 mini seconds publishing element
+Info: Task:Revisão da lista de cdus priorizados: 16 mini seconds publishing element
+Info: CustomCategory:Artefatos: 11 mini seconds publishing element
+Info: WorkProductType:Análise do sistema a ser desenvolvido artefatos: 15 mini seconds publishing element
+Info: Artifact:Cdus priorizadas: 19 mini seconds publishing element
+Info: Artifact:Documento de visão: 18 mini seconds publishing element
+Info: Artifact:Documento do negócio: 21 mini seconds publishing element
+Info: Artifact:Lista de funcionalidades por priorização: 16 mini seconds publishing element
+Info: WorkProductType:Desenvolvimento artefatos: 13 mini seconds publishing element
+Info: Artifact:Ata da reunião: 15 mini seconds publishing element
+Info: Artifact:Conjunto de entidades do gerenciador: 15 mini seconds publishing element
+Info: Artifact:Documentação de desenvolvimento: 17 mini seconds publishing element
+Info: Artifact:Entidades readequadas: 14 mini seconds publishing element
+Info: Artifact:Interface do sistema de gerenciamento: 15 mini seconds publishing element
+Info: Artifact:Protótipos readequados: 15 mini seconds publishing element
+Info: Artifact:Solicitação de modificações: 16 mini seconds publishing element
+Info: WorkProductType:Preparação do desenvolvimento artefatos: 10 mini seconds publishing element
+Info: Artifact:Entidades do sistema: 15 mini seconds publishing element
+Info: Artifact:Lista de cdus revisada: 15 mini seconds publishing element
+Info: Artifact:Protótipos de tela: 21 mini seconds publishing element
+Info: Artifact:Visão da equipe sobre o negócio: 17 mini seconds publishing element
+Info: CustomCategory:Papeis: 9 mini seconds publishing element
+Info: RoleSet:Papeis: 13 mini seconds publishing element
+Info: Role:Analista: 52 mini seconds publishing element
+Info: Role:Cliente: 51 mini seconds publishing element
+Info: Role:Desenvolvedor: 83 mini seconds publishing element
+Info: Role:Designer: 82 mini seconds publishing element
+Info: Role:Analista: 68 mini seconds publishing element
+Info: Role:Cliente: 66 mini seconds publishing element
+Info: Role:Analista: 33 mini seconds publishing element
+Info: Role:Cliente: 40 mini seconds publishing element
+Info: Role:Desenvolvedor: 52 mini seconds publishing element
+Info: Role:Designer: 34 mini seconds publishing element
+Info: : Publishing time: 0 minutes 2 seconds
